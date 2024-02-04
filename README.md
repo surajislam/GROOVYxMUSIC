@@ -36,9 +36,7 @@
 <a href="https://github.com/Skyxlor"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-<p align="center">
-<a href="(https://t.me/groovysupportt"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
+
 
 
 - <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀ™ »𝐝3/ᶜʷʰ](https://github.com/Skyxlor) ғᴏʀ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀ™ »𝐝3/ᶜʷʰ](https://github.com/Skyxlor/GROOVYxMUSIC) </b>
