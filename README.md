@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/14b592b31ef473e1e9293.jpg">
+  <img src="https://telegra.ph/file/ab291672a69c38a123a74.jpg">
 </p>
 
 
@@ -18,12 +18,12 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/ll_CRUSH_WORLD_ll"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/groovysupportt"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="(https://t.me/ll_ABOUT_CHOCOLATY_ll"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="(https://t.me/Baap_ji_9211"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [🦅𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆™](https://github.com/Skyxlor) ғᴏʀ [🦅𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆™](https://github.com/Skyxlor/GROOVYxMUSIC) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀ™ »𝐝3/ᶜʷʰ](https://github.com/Skyxlor) ғᴏʀ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀ™ »𝐝3/ᶜʷʰ](https://github.com/Skyxlor/GROOVYxMUSIC) </b>
