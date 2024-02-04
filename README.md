@@ -33,7 +33,7 @@
 </h3>
 
 <p align="center">
-<a href="https://github.com/Skyxlor"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/groovy_supportt"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
