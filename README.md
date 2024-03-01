@@ -1,11 +1,5 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# CW-MUSIC
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ROCKY-D3V&repo=ROCKY-D3V&theme=flag-india)
-
-[![GIF](https://github.com/Skyxlor/GROOVYxMUSIC/blob/main/Skyxlor.gif)](https://github.com/Skyxlor)
-   [![xᴅ_ɴᴇᴛᴡᴏʀᴋ](https://github-stats-alpha.vercel.app/api?username=Skyxlor "GROOVYxMUSIC")](https://github-stats-alpha.vercel.app/api?username=Skyxlor "GROOVYxMUSIC")
 
 <p align="center">
   <img src="https://te.legra.ph/file/14b592b31ef473e1e9293.jpg">
@@ -16,16 +10,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Skyxlor/GROOVYxMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-[![Contributors](https://contrib.rocks/image?repo=Skyxlor/GROOVYxMUSIC)](https://github.com/Skyxlor/GROOVYxMUSIC/graphs/contributors)
-
-### Contact :
-<a href="https://t.me/M3_4_U"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/cwteam169/CW-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
@@ -33,12 +18,12 @@
 </h3>
 
 <p align="center">
-<a href="https://github.com/Skyxlor"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ll_CRUSH_WORLD_ll"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="(https://t.me/D3_NETWORK"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="(https://t.me/ll_ABOUT_CHOCOLATY_ll"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀ™ »𝐝3/ᶜʷʰ](https://github.com/Skyxlor) ғᴏʀ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀ™ »𝐝3/ᶜʷʰ](https://github.com/Skyxlor/GROOVYxMUSIC) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [🦅𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆™](https://github.com/cwteam169) ғᴏʀ [🦅𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆™](https://github.com/cwteam169/CW-MUSIC) </b>
