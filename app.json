@@ -45,7 +45,7 @@
       "STRING_SESSION2": {
         "description": "A Pyrogram v2 String Session from @StringGenerator_Bot on Telegram.",
         "value": "",
-        "required": true
+        "required": false 
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
