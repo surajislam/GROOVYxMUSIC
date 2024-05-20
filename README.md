@@ -4,11 +4,11 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ROCKY-D3V&repo=ROCKY-D3V&theme=flag-india)
 
-[![GIF](https://github.com/Skyxlor/GROOVYxMUSIC/blob/main/Skyxlor.gif)](https://github.com/Skyxlor)
-   [![xᴅ_ɴᴇᴛᴡᴏʀᴋ](https://github-stats-alpha.vercel.app/api?username=Skyxlor "GROOVYxMUSIC")](https://github-stats-alpha.vercel.app/api?username=Skyxlor "GROOVYxMUSIC")
+[![GIF](https://github.com/surajislam/GROOVYxMUSIC/blob/main/Skyxlor.gif)](https://github.com/Skyxlor)
+   [![xᴅ_ɴᴇᴛᴡᴏʀᴋ](https://github-stats-alpha.vercel.app/api?username=surajislam. "GROOVYxMUSIC")](https://github-stats-alpha.vercel.app/api?username=surajislam"GROOVYxMUSIC")
 
 <p align="center">
-  <img src="https://te.legra.ph/file/14b592b31ef473e1e9293.jpg">
+  <img src="https://graph.org/file/f1ae76618d14521b34905.jpg">
 </p>
 
 
@@ -41,4 +41,4 @@
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀ™ »𝐝3/ᶜʷʰ](https://github.com/Skyxlor) ғᴏʀ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀ™ »𝐝3/ᶜʷʰ](https://github.com/Skyxlor/GROOVYxMUSIC) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀj™ »𝐝3/ᶜʷʰ](https://github.com/Skyxlor) ғᴏʀ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀj™ »𝐝3/ᶜʷʰ](https://github.com/surajislam/GROOVYxMUSIC) </b>
