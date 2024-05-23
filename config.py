@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "@SUKOON_SB_MUSIC_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@VIKKU_KA_APNA_ROBOT")
 
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME" , "ͥSUKOONMUSIC")
@@ -27,8 +27,8 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
 # Chat id of a group for logging bot's activities
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
-# Get this value from @l_SUKOON_X_MUSIC_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7178932244))
+# Get this value from @lVIKKU_KA_APNA_ROBOT on Telegram by /id
+OWNER_ID = int(getenv("OWNER_ID", 6940249281))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
