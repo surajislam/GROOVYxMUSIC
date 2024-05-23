@@ -8,7 +8,7 @@
    [![xᴅ_ɴᴇᴛᴡᴏʀᴋ](https://github-stats-alpha.vercel.app/api?username=surajislam. "GROOVYxMUSIC")](https://github-stats-alpha.vercel.app/api?username=surajislam"GROOVYxMUSIC")
 
 <p align="center">
-  <img src="https://graph.org/file/f1ae76618d14521b34905.jpg">
+  <img src="https://graph.org/file/4ef62e734ca0e294c30b3.jpg">
 </p>
 
 
